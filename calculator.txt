@@ -1,10 +1,16 @@
 class{
 
 
-public int(int a,int b){
+      public int(int a,int b){
 
-return a+b;
+      return a+b;
+    }
+
+      public int(int a,int b){
+
+      return a-b;
   }
+    
 
 
 
